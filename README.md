@@ -6,7 +6,7 @@ This project was developed to practice Responsive Web Design. <br>
 https://ferriswheelproject.netlify.app/
 
 ## Gif Demonstration
-![Web 1]()
+![Web 1](https://github.com/celiceceron/ferrisWheelProject/blob/2e596d88df9226dfeaaae8a3f007c1a8ff7a8ba6/Ferris%20Wheel.gif)
 
 # Technologies and tools I use
 ## Front end
